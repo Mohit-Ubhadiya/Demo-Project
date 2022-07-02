@@ -1,3 +1,2 @@
 simple text
 done
-new text added
